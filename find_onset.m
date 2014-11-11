@@ -1,6 +1,5 @@
 function [ output_args ] = find_onset(input_data, pos)
-%FIND_ONSET Summary of this function goes here
-%   Detailed explanation goes here
+%FIND_ONSET
     
     stim_start = 2000;
     peak_end = 2110;
